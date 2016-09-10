@@ -6,7 +6,7 @@ String.prototype.replaceAll = function(str1, str2, ignore)
 function getRandom(a) {
 	return a[Math.floor(Math.random() * a.length)];
 }
-function makeTitle(people,situation) {
+function makeTitle(people,situations) {
 	var ret = "";
 	var person1 = getRandom(people);
 	var person2 = getRandom(people);
