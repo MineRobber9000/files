@@ -1,0 +1,35 @@
+Dice roll animations seems to be decoupled from dice roll result; I watched a d6 land on 4 only to deal 1 damage to me when I hadn't frozen the enemy, as well as a d20 that definitely didn't land on 19 (but did land on a number close to 19?) dealing 19 damage, and a d20 I rolled on my first turn that landed on a 9 dealing 4 damage. If the dice animations don't do anything why are they there?
+
+Lizzy says she isn't going to waste her costume on a oneshot campaign, but she's using it for a cosplay contest anyways so it's not wasted on the oneshot campaign
+
+ALSO why is everyone complaining about a oneshot campaign? all Sam is saying is that she can't keep going right now because she has to study for finals... was it a oneshot campaign? we weren't told that AFAICT
+
+Character sprites in the VN cutscenes animate like they should be changing but they stay static; was that planned but not implemented? I mean, Chadley and Stewart get post-defeat sprites but that's all the changing the sprites do.
+
+nothing to say about the slimes, they were chill
+
+The Danger Rattler only ever rolls the D8 INT Ice, which gets really annoying really fast; I'm rolling 18s and 19s and only dealing 1 damage because I've got a -49x modifier from all of these Ice rolls
+
+The things dice do are not really made clear. Do shields granted by D10 DEX Light stack? How does D10 DEX Light grant shields? Is the d10 the amount of temporary hit points or the amount of turns? What if I roll D10 DEX Light in consecutive turns? Same with D6 CON Poison; what does the roll do there?
+
+Seriously though, cut it out with the D8 INT Ice dice on the Rattlers, it stops being fun at some point when your D20 STRENGTH Earth die is less effective than using that 2 energy on a D4 WISDOM Fire roll
+
+Okay, dog with knife was funny-- NO I HAVE TO FIGHT THE DOG
+
+White text on light blue UI is unreadable at smaller sizes; the stroke width needs to either not change or scale independently of text size (either that or just use black text for the dice descriptions
+
+Seriously! The d20 landed on a 19; why am I only doing 5 damage to a Dog with no shields or resistance that I can see? (Unless Luck negatively affects the enemy, which is not made clear anywhere)
+
+So the poison die roll is damage *AND* duration; why isn't the shield the same? Was it a balancing reason?
+
+The minions are neat enemies, although sometimes the 2 D4 WISDOM Fire dice land too close together and I have a mini heart attack as I think I'm taking 43 fire damage from 2d4. No, me, it's 4+3=7 damage.
+
+Chadley showed up first before "Xander Vex, Lord of Being A Pain In Sam's Ass" in the post-minion cutscene; nitpick but still
+
+They really think Sam hates them; this whole time she's been pretty clear she needs to study for finals and none of her lines feel like they would imply Sam doesn't enjoy playing with them. (Maybe if that was supposed to be the implication, Sam's lines should be changed to be slightly more antagonistic?)
+
+Final verdict: This game was awesome and I'd love to see a more polished post-jam version. The concept is neat, but the execution falls flat at times, probably because of the time constraints of the jam. 
+
+Enjoyment: 4/5 (Ice snakes were annoying, and the die rolls often didn't line up with that was shown (not counting explainable discrepancies like having more Luck), leading me to ask "why are the animations here?")
+Creativity: 5/5 (Very creative concept)
+Presentation: 3/5 (Some parts of the UI were hard to read and descriptions all around could be better)
