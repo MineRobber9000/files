@@ -1,0 +1,19 @@
+Dice Inventory screen was a little confusing at first
+
+I can place dice on top of each other in the Dice Inventory screen; they do separate when I move them to a new spot but it puts the overlap die in the (0,0) spot, which means when I place 3 dice on top of each other I still have overlapped dice afterward.
+
+Really could just use a bit of a tutorial... I didn't even see the Upgrade button until I had already spent 10 Gold on a new starter die >.<
+
+As with all idle games, you find yourself feeling kinda meh as they go on. (You brought this up with Dice Monster and I'd say it applies here too; the token moving around the board is a nice touch but that doesn't do much to engage me more.)
+
+Entanglement is another nice touch but it kinda defeats the point of an idle game-- scratch that; Entanglement is a pain in the neck when Hurry is enabled. It becomes a game of "bail out the sinking ship" where new leaks spring up twice a second. Maybe halve the rate it occurs during Hurry mode to account for the lower reaction window?
+
+Three healers/One damager is an OP build, why am I not allowed to do that? Literally endless battling in the 115 gold room (that is, the room you face after getting 115 gold on a given run). Entanglement seemingly stops happening and now I'm just going pedal-to-the-metal at a brick wall hoping I can knock it over eventually. It takes so long to do damage in this room and then it all gets undone the second I start having lower rolls. (Maybe implement a mechanic where opposing monsters sometimes lose a roll to mirror the Entanglement the player has to deal with?)
+
+Why does the "Empower Critical" option stay after I buy it? It won't let me undo it so why not just take it away?
+
+Final verdict: All in all a fun little idler. Wish there was a New Game+ though! ;)
+
+Enjoyment: 4/5 (The only unenjoyable part was dealing with Entanglement in Hurry mode)
+Creativity: 5/5 (The dice mechanics were pretty cool, even if I could abuse it to spend 30 gold to score a guaranteed 2 extra damage per turn)
+Presentation: 5/5 (Pixel characters looked amazing)
